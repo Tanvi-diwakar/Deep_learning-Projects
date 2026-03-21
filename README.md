@@ -52,6 +52,6 @@ README.md
 
 ---
 
-## Note  
+## Note    
 
 Each project contains a separate README with detailed explanation and implementation.
